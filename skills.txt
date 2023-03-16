@@ -1,0 +1,6 @@
+future_skills:
+skill1: git,
+skill2: in-depth postman,
+skill3: JMeter,
+skill4: Fiddler,
+skill5: XCode

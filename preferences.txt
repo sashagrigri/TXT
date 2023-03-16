@@ -1,0 +1,3 @@
+favorite_series: true_detective, fargo, breaking_bad,
+favorite_food: pasta,
+dream_country:south_africa
