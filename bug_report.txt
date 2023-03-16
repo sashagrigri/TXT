@@ -1,1 +1,9 @@
-
+ID: BR-1,
+Summery: Что? Где? Когда?,
+STR: 1. Делай раз 2. Делай два 3. Делай три,
+ER: ожидаемый результат,
+AR: фактический результат,
+Environment: окружение,
+Priority: Blocker/Critical/Major/Minor/rivial,
+Severity: High/Medium/Low
+Attachments: link
